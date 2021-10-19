@@ -1,1 +1,1 @@
-#NEAR Nauts landing page
+## NEAR Nauts landing page
